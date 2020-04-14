@@ -1,4 +1,6 @@
-# Microsoft Teams をもっと便利にビデオ会議をしよう (PCとiPhoneを組み合わせる)
+# Microsoft Teams をもっと便利にビデオ会議をしよう
+
+## PCとiPhoneを組み合わせる
 
 ここ最近、TeamsやZOOMを使った仕事がほとんどという状況になっています。
 
@@ -20,7 +22,9 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 使うごとに切り替えが面倒だったりする場合が多いのではないでしょうか。
 
-## PC側の設定 (音声は使わず、画面共有を見たり、キーボードを使ったりするのに使う)
+## PC側の設定
+
+音声は使わず、画面共有を見たり、キーボードを使ったりするのに使う！
 
 カンタンです。**【チャット】機能は使いません！**
 
@@ -30,17 +34,17 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 そして、**【今すぐ会議】を選択します**。
 
-![Temasの画面001](.\T001.png)
+![Temasの画面001](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T001.PNG)
 
 適当に会議のタイトルを入力します。ここではテスト会議としました。
 
 このとき必ず**マイクのマークはOFFにしておきましょう！**
 
-![Temasの画面002](.\T002.png)
+![Temasの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T002.png)
 
 理由はハウリングするためです。(耳がキーンとするやつです。)
 
-![Temasの画面003](.\T003.png)
+![Temasの画面003](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T003.png)
 
 そして、**下部にある【他の参加オプション】から【音声オフ】を選びます**。
 
@@ -50,21 +54,21 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 iPhoneからTeamsを起動します。
 
-![iPhoneの画面001](.\i001.png)
+![iPhoneの画面001](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i001.png)
 
 Teamsの画面に【進行中:会議】このデバイスで参加しますか？という表示がありますので、
 
 【参加】ボタンをタップします。
 
-![iPhoneの画面002](.\i002.png)
+![iPhoneの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i002.png)
 
 下部にあるスピーカーのアイコンをタップします。
 
-![iPhoneの画面003](.\i003.png)
+![iPhoneの画面003](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i003.png)
 
 【スピーカー】をタップします。これで音がiPhoneから聞こえるようになりました。
 
-![iPhoneの画面004](.\i004.png)
+![iPhoneの画面004](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i004.png)
 
 最後にマイクのアイコンをタップします。
 
