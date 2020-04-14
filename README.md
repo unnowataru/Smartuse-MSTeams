@@ -40,7 +40,7 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 このとき必ず**マイクのマークはOFFにしておきましょう！**
 
-![Temasの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T002.png)
+![Temasの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T002.PNG)
 
 理由はハウリングするためです。(耳がキーンとするやつです。)
 
