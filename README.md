@@ -1,4 +1,4 @@
-# Microsoft Teams でもっと便利にビデオ会議をしよう
+# Microsoft Teams でもっと快適にビデオ会議をしよう
 
 ## PCとiPhoneを組み合わせる (PC:画面, iPhone:音声)
 
