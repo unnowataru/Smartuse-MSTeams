@@ -75,3 +75,7 @@ Teamsの画面に【進行中:会議】このデバイスで参加しますか�
 <img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i005.png width=360>
 
 これでミュートが解除され、通話相手にiPhoneで拾った音が聞こえるようになりました。
+
+## まとめ
+
+なるべくお金をかけず、快適にMicrosoft Teamsを使いましょう。
