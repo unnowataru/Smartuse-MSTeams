@@ -44,7 +44,7 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 理由はハウリングするためです。(耳がキーンとするやつです。)
 
-<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T003.PNG width=480>
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T003.png width=480>
 
 そして、**下部にある【他の参加オプション】から【音声オフ】を選びます**。
 
