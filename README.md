@@ -34,17 +34,17 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 そして、**【今すぐ会議】を選択します**。
 
-![Temasの画面001](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T001.PNG)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T001.PNG width=640>
 
 適当に会議のタイトルを入力します。ここではテスト会議としました。
 
 このとき必ず**マイクのマークはOFFにしておきましょう！**
 
-![Temasの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T002.PNG)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T002.PNG width=640>
 
 理由はハウリングするためです。(耳がキーンとするやつです。)
 
-![Temasの画面003](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T003.png)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/T003.PNG width=480>
 
 そして、**下部にある【他の参加オプション】から【音声オフ】を選びます**。
 
@@ -54,21 +54,21 @@ AirPods Proなどの高性能イヤホンはマルチペアリング自体は可
 
 iPhoneからTeamsを起動します。
 
-![iPhoneの画面001](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i001.png)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i001.png width=360>
 
 Teamsの画面に【進行中:会議】このデバイスで参加しますか？という表示がありますので、
 
 【参加】ボタンをタップします。
 
-![iPhoneの画面002](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i002.png)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i002.png width=360>
 
 下部にあるスピーカーのアイコンをタップします。
 
-![iPhoneの画面003](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i003.png)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i003.png width=360>
 
 【スピーカー】をタップします。これで音がiPhoneから聞こえるようになりました。
 
-![iPhoneの画面004](https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i004.png)
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i004.png width=360>
 
 最後にマイクのアイコンをタップします。
 
