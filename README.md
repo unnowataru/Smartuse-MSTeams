@@ -72,6 +72,6 @@ Teamsの画面に【進行中:会議】このデバイスで参加しますか�
 
 最後にマイクのアイコンをタップします。
 
-<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i00.png width=360>
+<img src=https://github.com/unnowataru/Smartuse-MSTeams/blob/master/i005.png width=360>
 
 これでミュートが解除され、通話相手にiPhoneで拾った音が聞こえるようになりました。
