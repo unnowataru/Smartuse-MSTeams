@@ -1,6 +1,6 @@
-# Microsoft Teams でもっと快適にビデオ会議をしよう
+# iPhoneとPCを組み合わせて、もっと快適にTeamsで会議を使用
 
-## PCとiPhoneを組み合わせる (PC:画面, iPhone:音声)
+## 背景 : PCとiPhoneを組み合わせる (PC:画面, iPhone:音声)
 
 ここ最近、TeamsやZOOMを使った仕事がほとんどという状況になっています。
 
